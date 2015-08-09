@@ -4,3 +4,9 @@ C:\Projects\RobsPortfolioWebsite\RobsPortfolioWebsite\bin\RobsPortfolioWebsite.p
 C:\Projects\RobsPortfolioWebsite\RobsPortfolioWebsite\obj\Debug\RobsPortfolioWebsite.csprojResolveAssemblyReference.cache
 C:\Projects\RobsPortfolioWebsite\RobsPortfolioWebsite\obj\Debug\RobsPortfolioWebsite.dll
 C:\Projects\RobsPortfolioWebsite\RobsPortfolioWebsite\obj\Debug\RobsPortfolioWebsite.pdb
+C:\Users\Rob\Desktop\RobsWebsite\RobsPortfolioWebsite\bin\RobsPortfolioWebsite.dll.config
+C:\Users\Rob\Desktop\RobsWebsite\RobsPortfolioWebsite\bin\RobsPortfolioWebsite.dll
+C:\Users\Rob\Desktop\RobsWebsite\RobsPortfolioWebsite\bin\RobsPortfolioWebsite.pdb
+C:\Users\Rob\Desktop\RobsWebsite\RobsPortfolioWebsite\obj\Debug\RobsPortfolioWebsite.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Desktop\RobsWebsite\RobsPortfolioWebsite\obj\Debug\RobsPortfolioWebsite.dll
+C:\Users\Rob\Desktop\RobsWebsite\RobsPortfolioWebsite\obj\Debug\RobsPortfolioWebsite.pdb
