@@ -1,0 +1,6 @@
+C:\Projects\RobsPortfolioWebsite\RobsPortfolioWebsite\bin\RobsPortfolioWebsite.dll.config
+C:\Projects\RobsPortfolioWebsite\RobsPortfolioWebsite\bin\RobsPortfolioWebsite.dll
+C:\Projects\RobsPortfolioWebsite\RobsPortfolioWebsite\bin\RobsPortfolioWebsite.pdb
+C:\Projects\RobsPortfolioWebsite\RobsPortfolioWebsite\obj\Debug\RobsPortfolioWebsite.csprojResolveAssemblyReference.cache
+C:\Projects\RobsPortfolioWebsite\RobsPortfolioWebsite\obj\Debug\RobsPortfolioWebsite.dll
+C:\Projects\RobsPortfolioWebsite\RobsPortfolioWebsite\obj\Debug\RobsPortfolioWebsite.pdb
