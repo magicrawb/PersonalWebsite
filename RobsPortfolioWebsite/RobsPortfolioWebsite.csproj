@@ -66,6 +66,7 @@
     <Content Include="assets\fonts\Simple-Line-Icons.eot" />
     <Content Include="assets\fonts\Simple-Line-Icons.ttf" />
     <Content Include="assets\fonts\Simple-Line-Icons.woff" />
+    <Content Include="assets\Rob_Greenlee_Resume.pdf" />
     <None Include="Properties\PublishProfiles\rgreenlee %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\rgreenlee.pubxml" />
     <None Include="Web.Debug.config">
@@ -116,9 +117,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Site\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
